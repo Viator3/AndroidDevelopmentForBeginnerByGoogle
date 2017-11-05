@@ -21,7 +21,7 @@
         android:fontFamily="sans-serif-light"
         android:paddingTop="16dp"
         android:paddingLeft="16dp"
-        android:text="Happy Birthday, Andray!" />
+        android:text="Happy Birthday, Andrei!" />
 
     <TextView
         android:layout_width="wrap_content"
