@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Просто Словарь</string>
+    <string name="category_phrases">Фразы</string>
+    <string name="category_colors">Цвета</string>
+    <string name="category_numbers">Числа</string>
+    <string name="category_family">Члены Семьи</string>
+    <string name="ru_phrase_where_are_you_going">Куда ты идешь?</string>
+    <string name="ru_phrase_what_is_your_name">Как вас зовут?</string>
+    <string name="ru_phrase_my_name_is">Меня зовут...</string>
+    <string name="ru_phrase_how_are_you_feeling">Как ты себя чувствуешь?</string>
+    <string name="ru_phrase_im_feeling_good">Я чувствую себя хорошо.</string>
+    <string name="ru_phrase_are_you_coming">Ты идешь?</string>
+    <string name="ru_phrase_yes_im_coming">Да, я иду.</string>
+    <string name="ru_phrase_im_coming">Я иду.</string>
+    <string name="ru_phrase_lets_go">Поехали.</string>
+    <string name="ru_phrase_come_here">Иди сюда.</string>
+    <string name="ru_number_one">один</string>
+    <string name="ru_number_two">два</string>
+    <string name="ru_number_three">три</string>
+    <string name="ru_number_four">четыре</string>
+    <string name="ru_number_five">пять</string>
+    <string name="ru_number_six">шесть</string>
+    <string name="ru_number_seven">семь</string>
+    <string name="ru_number_eight">восемь</string>
+    <string name="ru_number_nine">девять</string>
+    <string name="ru_number_ten">десять</string>
+    <string name="ru_color_red">красный</string>
+    <string name="ru_color_green">зеленый</string>
+    <string name="ru_color_brown">коричневый</string>
+    <string name="ru_color_gray">серый</string>
+    <string name="ru_color_black">черный</string>
+    <string name="ru_color_white">белый</string>
+    <string name="ru_color_dusty_yellow">пыльно-желтый</string>
+    <string name="ru_color_mustard_yellow">горчично-желтый</string>
+    <string name="ru_family_father">отец</string>
+    <string name="ru_family_mother">мать</string>
+    <string name="ru_family_son">сын</string>
+    <string name="ru_family_daughter">дочь</string>
+    <string name="ru_family_older_brother">старший брат</string>
+    <string name="ru_family_younger_brother">младший брат</string>
+    <string name="ru_family_older_sister">старшая сестра</string>
+    <string name="ru_family_younger_sister">младшая сестра</string>
+    <string name="ru_family_grandmother">бабушка</string>
+    <string name="ru_family_grandfather">дедушка</string>
+</resources>
